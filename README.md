@@ -23,4 +23,4 @@ Obs.: Crie um repositório no github e adicione o professor (rafaellevissa@gmail
 ============================
 Foto | Nome | GitHub | E-mail
 ---- | ---- | ------ | ------
-<img src="./doc/jhon.jpg" width="100px">  | Jonas Almeida | [O-coder-Jhon](https://github.com/O-coder-Jhon) | oww.jhon@gmail.com
+<img src="/doc/jhon.jpg" width="100px">  | Jonas Almeida | [O-coder-Jhon](https://github.com/O-coder-Jhon) | oww.jhon@gmail.com

@@ -2,52 +2,53 @@ import {StyleSheet} from 'react-native';
 import Constants from 'expo-constants';
 
 export default StyleSheet.create({
-    container:{
+    container: {
         flex:1,
         paddingHorizontal: 24,
-        paddingTop: Constants.statusBarHeight+20,
+        paddingTop: Constants.statusBarHeight+20
     },
-    header:{
+
+    header: {
         flexDirection: 'row',
         justifyContent: 'space-between',
-        alignItems: 'center',
+        alignItems: 'center'
     },
-    title:{
+
+    title: {
         fontSize: 30,
         marginBottom: 16,
-        marginTop: 20,
-        color: '#4169e1',
-        fontWeight: 'bold',
+        marginTop: 48,
+        color: '#13131a',
+        fontWeight: 'bold'
     },
-    logo:{
-        resizeMode: 'center',
-        marginLeft: -110,
-    },
-    body:{
+    
+    body: {
         width: '100%',
         height: '100%',
-        alignItems: 'center',
-
+        alignItems: 'center'
     },
-    input:{
+
+    input: {
         color: '#000',
-        borderColor: 'grey',
+        borderBottomColor: '#000',
         marginTop: '10%',
         borderBottomWidth: 2,
         width: '53%',
         height: '7%'
-    },
-    buttonText:{
+    },  
+
+    buttonText: {
         color: '#000',
         textTransform: 'uppercase',
-        fontWeight: 'bold',
+        fontWeight: 'bold'
     },
-    button:{
+
+    button: {
         backgroundColor: '#1e90ff',
         marginTop: '5%',
         width: '30%',
         height: '5%',
-        alignItems:'center',
+        alignItems: 'center',
         justifyContent: 'center',
         borderRadius: 8
     },
@@ -56,6 +57,5 @@ export default StyleSheet.create({
         fontWeight: 'bold',
         fontSize: 15,
         marginTop: '40%'
-    }
-
-})
+    },
+});

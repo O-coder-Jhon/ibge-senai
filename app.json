@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "ibge-senai",
-    "slug": "ibge-senai",
+    "name": "IBGE-Nomes",
+    "slug": "ibge-nomes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#4169e1"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
